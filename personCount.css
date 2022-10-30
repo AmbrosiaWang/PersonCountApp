@@ -1,0 +1,43 @@
+
+body{
+    width: 1024px;
+    padding-top: 20px;
+    background-color: rgb(190, 207, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+h1{
+    font-size: 50px;
+    padding-bottom: 10px;
+    margin: 10px 0;
+}
+h2{font-size: 40px;
+    padding: 10px 30px;
+    background-color: bisque;
+    margin: 15px 0 ;
+}
+button{
+    border: none;
+    font-size: 25px;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 200px; 
+}
+
+#increment-btn{
+    background-color: rgb(236, 148, 148);
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+#save-btn{
+    background-color: rgb(173, 101, 173);
+}
+
+p{
+    font-size: 40px;
+    font-weight: 700;
+}
